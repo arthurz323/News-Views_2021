@@ -26,3 +26,10 @@ Students should prepare a lay summary of the paper (180-200 words), targeted at 
 As each specialist term needs to be explained, it is often not possible to include more than two technical terms in the lay abstract.
 
 An electronic copy must be submitted via LEARN.
+
+
+## Tips:
+When you are writing an evaluation paragraph use the PEC system:
+  Make your Point.
+  Explain how and why the point is relevant.
+  Discuss the Consequences / implications of the theory or study. Are they positive or negative?
