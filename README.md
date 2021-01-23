@@ -30,6 +30,9 @@ An electronic copy must be submitted via LEARN.
 
 ## Tips:
 When you are writing an evaluation paragraph use the PEC system:
+  
   Make your Point.
+  
   Explain how and why the point is relevant.
+  
   Discuss the Consequences / implications of the theory or study. Are they positive or negative?
