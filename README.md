@@ -48,10 +48,12 @@ It is often best to write your introduction when you have finished the main body
 
 If there is a word count for your essay try to devote 10% of this to your introduction.
 
-Ideally the introduction should;
+Ideally the introduction should:
 
   Identify the subject of the essay and define the key terms.
+  
   Highlight the major issues which “lie behind” the question. Let the reader know how you will focus your essay by identifying the main themes to be discussed.
+  
   “Signpost” the essay’s key argument, (and, if possible, how this argument is structured).
 
 Introductions are very important as first impressions count and they can create a halo effect in the mind of the lecturer grading your essay. If you start off well then you are more likely to be forgiven for the odd mistake later one.
