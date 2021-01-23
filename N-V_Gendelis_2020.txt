@@ -1,1 +1,56 @@
 Title (Version 1): What does chronic high-calorie diet do to your brain?
+    (Version 2): High-calorie diet induced obesity alters the reward system
+    
+## Structure of Studer_2020
+
+["author" = author of the reviewed paper; "Studer" = author of the N&V]
+
+1. introduce the (existing) problem the article tackled
+
+2. introduce what is PD & its relationship with degeneration/growth factor
+    2.1 gives rise to the pos. of involving growth factor in PD
+    2.2 gradually reason to introducing growth factor into adult brain to treat PD
+
+3. method in the article, i,e., justification of choosing the method
+
+4. method in more detail
+
+5. more method stuff which leads directly to their finding, i.e., the timing matters
+
+6. finding (neuronal integration)
+    6.1 importance of understanding the biology of each developmental stage
+    6.2 thus the delivery timing mattered
+    6.3 the future of using GDNF is bright, if timing is optimised
+    6.4 and this timing is comparable to other animals, e.g., rodent & primate
+    
+7. other limitation of current approaches, which is resolved by this new approaches
+    7.1 author used fluorescent to address this issue -> sig. improvement
+
+8. views from Studer
+    8.1 significance again in one sentence
+    8.2 future challenge identified by author, i.e., limitations
+
+9. views from Studer
+    9.1 follows previous limitations, further identify issues, i.e., if GDNF is enough
+    9.2 what are the possible solution to these issues
+
+10.1 situation of introducing 9.2 into PD (how it is applicable)
+10.2 another benefit of using this new approach
+
+11. summary:
+    11.1 significance of this paper
+    11.2 pre-caution
+    11.3 bright future of GDNFo
+    
+
+
+##Leiden clinical neuro review paper guideline:
+    The writing assignment uses the same structure as an academic article, and must consist of at least the following sections:
+
+1. Introduction: with a sufficient statement of the problem(ending in a clear statement of questions and objectives).
+    Try to think of an interesting research question based on the supplied key articles, or use the question asked in the paper topic(half to 1 page).
+
+2. Middle part: consisting of several paragraphs.
+    In this middle part, arguments should be presented clearly and concisely (1-2 pages). 
+
+3. Discussion and conclusion: short summary with a conclusion and recommendations for further research (half to 1 page).
