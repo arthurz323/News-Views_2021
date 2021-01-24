@@ -1,14 +1,34 @@
 Title (Version 1): What does chronic high-calorie diet do to your brain?
     (Version 2): High-calorie diet induced obesity alters the reward system
     
-## Structure of Studer_2020
+## Structure (Studer_2020)
 
 ["author" = author of the reviewed paper; "Studer" = author of the N&V]
 
-1. introduce the (existing) problem the article tackled
+Main (800-1000):
 
-2. introduce what is PD & its relationship with degeneration/growth factor
+1. introduce the (existing) problem the article tackled
+    1.1 relatable example (e.g.,):
+        1.1.1 Recall the last time you had "comfort food"/doughnut/fried chicken/chocolate/candy, craving! Why? Not that you need them to keep you alive,but it makes you feel good.
+        
+        1.1.2 (or) Why doughnut/fried chicken/chocolate/candy are hard to resist?
+        
+        1.1.3 (or) Does food choice only about "will power" or there are actual/physiological changes in your brain? i.e., gaining weight is just bc one lacks "will power"?
+    
+    1.2 high-calorie diet esp. processed palatable food are easily accessible, induced obesity, which is a pressing problem (give WHO data here)
+    
+    1.3 existing problem
+        1.3.1 existing studies showed diet-induced obesity can change the brain, but where? what? how? unknown
+        
+        1.3.2 pointing to the reward system, similar to addiction, NAc esp., and introduce ventral pallidum
+        
+        1.3.3 Are some more likely to gain weight than others? i.e., some people are more susceptible to choose palatable food ( which leads to gain excessive weight) given the same diet? i.e., innate/personal difference?
+    
+
+
+2. introduce diet-induced obesity & its relationship with reward system
     2.1 gives rise to the pos. of involving growth factor in PD
+    
     2.2 gradually reason to introducing growth factor into adult brain to treat PD
 
 3. method in the article, i,e., justification of choosing the method
