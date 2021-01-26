@@ -1,11 +1,16 @@
-Title (Version 1): What does chronic high-calorie diet do to your brain?
+# Title (Version 1): What does chronic high-calorie diet do to your brain?
     (Version 2): High-calorie diet induced obesity alters the reward system
     
-## Structure (Studer_2020)
+## Structure (adopted from Studer_2020)
 
 ["author" = author of the reviewed paper; "Studer" = author of the N&V]
 
-Main (800-1000):
+# Main (800-1000):
+
+0. what motivate me to write about this paper???
+    keywords: palatable food, accessibility, healthy diet (how to define), unhealthy diet (how to define), obesity (worldwide issue)
+
+
 
 1. introduce the (existing) problem the article tackled
     1.1 relatable example (e.g.,):
@@ -25,7 +30,7 @@ Main (800-1000):
         1.3.2 pointing to the reward system, similar to addiction, NAc esp., and introduce ventral pallidum, lack of study in this region
         
         1.3.3 Are some more likely to gain weight than others? i.e., some people are more susceptible to choose palatable food ( which leads to gain excessive weight) given the same diet? i.e., innate/personal difference?
-    
+
 
 
 2. introduce diet-induced obesity & its relationship with reward system, esp VP, its role in pathological overeating (*is the overeating here really pathological????) & obesity has not been studied
@@ -33,11 +38,82 @@ Main (800-1000):
     
     2.2 gradually reason to introducing growth factor into adult brain to treat PD
 
-3. method in the article, i,e., justification of choosing the method
+3. method in the article
+    3.1 electrophysiology
+    
+    3.2 HFHS diet
+    
+    3.3 justification of choosing the method -> functionality/properties change at the neuronal level in VP from the difference in diet (mention chronic here!)
 
-4. method in more detail
 
-5. more method stuff which leads directly to their finding, i.e., the timing matters
+
+4. method in more detail (whole-cell patch clamp, voltage & current)
+* excitatory synaptic transmission is #BLOCKED#!!!! -> not looking at the glutamate at all!
+* evoked IPSC (~30-70% of the max. IPSC) induced by a bipolar stimulating electrode anterior to the cell
+* groups
+    HFHS (10-12 weeks)
+        WG (weight-gainer, upper 33%)
+        NWG (not weight-gainer, lower 33%)
+    chow
+        HR (reach out for HFHS reward, upper 33%)
+        LR (not reach out for HFHS reward, lower 33%)
+
+    4.1 current clamp: measures excitability & passive membrane properties
+        4.1.1 current step protocol: injection of 500ms depolarising current 0pA-80pA (20pA step); baseline membrane potential adjusted to -50mV by injecting constant current
+        
+        * spontaneous IPSC recorded for 100s without stimulation
+        
+    4.2 voltage clamp: hold -80mV, measures synaptic activity
+    
+    4.3 HFS (high-frequency stimulation) induce plasticity (depression) 
+        4.3.1 evoked IPSC baseline measurement (under voltage clamp -80mV), 3mins
+        
+        4.3.2 HFS: 100 stimulation at 100Hz, with amplitude equals to IPSC baseline, 2 trains separated by 20s
+        
+        4.3.3 after the 2nd train, voltage clamp -80mV, and record evoked (not spontaneous) IPSC at 0.1Hz, average amplitude of 6 responses to get one data point per minute
+        
+        4.3.4 short-term synaptic depression (STSD): measure PTP (post-tetanic potentiation; a form of short-term plasticity, induces change in #frequency# of post-synaptic current/potential, no change in amplitude) 1min after HFS
+        
+        4.3.5 long-term synaptic depression (LTSD): measure ??? 13-19 min after HFS
+        
+    4.4 consecutive pulses*2 with 50ms interval
+        4.4.1 PPR (paired-pulse ration): amplitude of second pulse/amplitude of first pulse (i.e., ratio of two amplitudes) for each group
+        
+        4.4.2 CV (coefficient of variation) of the current: difference between the first peak of two pulses
+        
+        4.4.3 these two parameters are measured twice: baseline & after HFS, repeated 20 times under each condition; they are indicators of change in the probability of #pre-synaptic# release
+
+
+
+5. more method stuff which leads directly to the finding
+    5.1 passive neuronal properties (measured 2 weeks after HFHS)
+        5.1.1 resting membrane potential: HFHS ⬇️
+        
+        5.1.2 AP firing rate: HFHS ⬇️
+        
+        5.1.3 first-spike latency (FSL): no difference
+        
+        5.1.4 AP waveform: HFHS wider
+            AP half-width ⬆️
+            AP rise time ⬆️
+            membrane resistance ⬆️
+            current injected to maintain at -50mV ⬇️ (i.e., closer to -50mV, tho still >-50mV)
+    ➡️ chronic HFHS changed VP neuron physiology
+
+    5.2 GABA transmission
+        5.2.1 spontaneous IPSC amplitude: HFHS ⬇️
+        
+        5.2.2 spontaneous IPSC frequency: no difference
+    ➡️ change in GABA transmission, less likely due to pre-synaptic properties change, since PPR & CV of evoked IPSC did not change
+    
+        5.2.3 evidence from synaptic plasticity (depression)
+            a. STSD (ms): 5 identical pulses (1Hz, 10Hz, 50Hz), record change (divide each evoked IPSC by the first one) in evoked IPSC; no difference in evoked IPSC frequency between groups
+            ➡️ no STSD induced
+            
+            b. LTSD (min): used HFS protocol as above, no difference between groups
+            ➡️ no LTSD induced
+        
+[CONTINUE HERE!!! 26/01, 11:57]
 
 6. finding (neuronal integration)
     6.1 importance of understanding the biology of each developmental stage
@@ -78,8 +154,16 @@ Main (800-1000):
     * Lewy body in PD patients migrate from bowel -> the first symptom is constipation, years before the behavioural symptom (the first is loss of olfactory)
     
     * neuronal type is not specified, GABA? glutamate? (Stephenson-Jones 2020) which relate to positive & negative valence respectively
+       ** GABAergic neurons have increased activity when the stimuli are appealing, i.e., if GABA neurons become less active & lower resting potential, people will react less to appealing stimuli?????
+        Yea that make sense, for after chronic exposure to HFHS food, people need even higher dosage to get to the same level of excitation, like addiction
+        
+    * Does the FSL difference has something to do with GABA?
+    
+    * why not perform recording right after chronic HFHS? how would you know what exactly happened to VP? suggestion: add another round of recording right after diet, & keep the 2-week cooling period -> know what happened in that 2-week
     
     * Tbc1d1 gene mutation protects from diet-induced obesity (Chadt et al 2008)
+    
+    * the leap from reward system to decision making
     
     
     
