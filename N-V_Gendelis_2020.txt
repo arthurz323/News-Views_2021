@@ -11,6 +11,8 @@ Main (800-1000):
     1.1 relatable example (e.g.,):
         1.1.1 Recall the last time you had "comfort food"/doughnut/fried chicken/chocolate/candy, craving! Why? Not that you need them to keep you alive,but it makes you feel good.
         
+        * in 2016, over 650 million adults were obese, and over 340 million children & adolescents were overweight or obese (https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight), and obesity-related diseases have become leading cause of death worldwide.
+        
         1.1.2 (or) Why doughnut/fried chicken/chocolate/candy are hard to resist?
         
         1.1.3 (or) Does food choice only about "will power" or there are actual/physiological changes in your brain? i.e., gaining weight is just bc one lacks "will power"?
@@ -20,13 +22,13 @@ Main (800-1000):
     1.3 existing problem
         1.3.1 existing studies showed diet-induced obesity can change the brain, but where? what? how? unknown
         
-        1.3.2 pointing to the reward system, similar to addiction, NAc esp., and introduce ventral pallidum
+        1.3.2 pointing to the reward system, similar to addiction, NAc esp., and introduce ventral pallidum, lack of study in this region
         
         1.3.3 Are some more likely to gain weight than others? i.e., some people are more susceptible to choose palatable food ( which leads to gain excessive weight) given the same diet? i.e., innate/personal difference?
     
 
 
-2. introduce diet-induced obesity & its relationship with reward system
+2. introduce diet-induced obesity & its relationship with reward system, esp VP, its role in pathological overeating (*is the overeating here really pathological????) & obesity has not been studied
     2.1 gives rise to the pos. of involving growth factor in PD
     
     2.2 gradually reason to introducing growth factor into adult brain to treat PD
@@ -57,14 +59,33 @@ Main (800-1000):
 10.1 situation of introducing 9.2 into PD (how it is applicable)
 10.2 another benefit of using this new approach
 
-11. summary:
+11. summary & views
     11.1 significance of this paper
     11.2 pre-caution
-    11.3 bright future of GDNFo
+    11.3 bright future of GDNF
+    
+11.* views
+    * collaboration between neuroscientists & Gastroenterologists, i.e., brain-gut axis
+    
+    * about the diet itself
+        sugar (diabetes use high fat low sugar diet, its about the balance of insulin -> control carbs, i.e., free sugar) INSULIN RESISTANCE is the term!!
+        what fat? saturated? unsaturated? trans?
+        Pennetta lipid droplets, high fat diet improve ALS
+        the combination of high sugar & fat rather than high fat contributes to obesity -> introduce HFLS, LFHS, LFLS groups, and specify the type of fat & sugar (free or complex?) -> specify the role of each component -> better translate to human diet design, & understanding of obesity & reward system
+        
+    * change in the reward system induced in higher motivation to obtain palatable food, or innate difference in palatable food preference alters the reward system? egg / chicken problem?
+                
+    * Lewy body in PD patients migrate from bowel -> the first symptom is constipation, years before the behavioural symptom (the first is loss of olfactory)
+    
+    * neuronal type is not specified, GABA? glutamate? (Stephenson-Jones 2020) which relate to positive & negative valence respectively
+    
+    * Tbc1d1 gene mutation protects from diet-induced obesity (Chadt et al 2008)
+    
+    
     
 
 
-##Leiden clinical neuro review paper guideline:
+## Leiden clinical neuro review paper guideline:
     The writing assignment uses the same structure as an academic article, and must consist of at least the following sections:
 
 1. Introduction: with a sufficient statement of the problem(ending in a clear statement of questions and objectives).
@@ -74,3 +95,5 @@ Main (800-1000):
     In this middle part, arguments should be presented clearly and concisely (1-2 pages). 
 
 3. Discussion and conclusion: short summary with a conclusion and recommendations for further research (half to 1 page).
+
+python for data analysis 2nd
