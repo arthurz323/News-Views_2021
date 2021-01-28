@@ -1,1 +1,308 @@
-Title (Version 1): What does chronic high-calorie diet do to your brain?
+# Title (Version 1): What does chronic high-calorie diet do to your brain?
+    (Version 2): High-calorie diet induced obesity alters the reward system
+    
+## Structure (adopted from Studer_2020)
+
+["author" = author of the reviewed paper; "Studer" = author of the N&V]
+
+# Main (800-1000):
+
+0. what motivate me to write about this paper???
+    keywords: palatable food, accessibility, healthy diet (how to define), unhealthy diet (how to define), obesity (worldwide issue)
+Q1: comparing HFHS & control, what will HFHS do to VP? any difference between groups?
+
+Q2: within HFHS, difference in weight-gaining have difference in VP neurophysiology?
+    Q2.1 electrophysiology
+    Q2.2 synaptic plasticity
+    
+Q3: if Q1 or Q2=true, are neuronal difference (among different amount of weight-gaining) due to diet, or innateness plays a role? i.e., quote: "are these synaptic differences between obesity-prone and obesity-resistant animals the cause or the consequence of obesity?"
+    
+    
+1. introduce the (existing) problem the article tackled
+    1.1 relatable example (e.g.,):
+        1.1.1 Recall the last time you had "comfort food"/doughnut/fried chicken/chocolate/candy, craving! Why? Not that you need them to keep you alive,but it makes you feel good.
+
+        * in 2016, over 650 million adults were obese, and over 340 million children & adolescents were overweight or obese (https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight), and obesity-related diseases have become leading cause of death worldwide.
+        
+        1.1.2 (or) Why doughnut/fried chicken/chocolate/candy are hard to resist?
+        
+        1.1.3 (or) Does food choice only about "will power" or there are actual/physiological changes in your brain? i.e., gaining weight is just bc one lacks "will power"?
+    
+    1.2 high-calorie diet esp. processed palatable food are easily accessible, induced obesity, which is a pressing problem (give WHO data here)
+    
+    1.3 existing problem
+        1.3.1 existing studies showed diet-induced obesity can change the brain, but where? what? how? unknown
+        
+        1.3.2 pointing to the reward system, similar to addiction, NAc esp., and introduce ventral pallidum (the fact that it relates to feeding! VP activation ⬆️, ➡️ feeding; it also encodes hedonistic values of the food), lack of study in this region
+        
+        1.3.3 Are some more likely to gain weight than others? i.e., some people are more susceptible to choose palatable food ( which leads to gain excessive weight) given the same diet? i.e., innate/personal difference?
+
+
+
+2. introduce diet-induced obesity & its relationship with reward system, esp VP, its role in pathological overeating (*is the overeating here really pathological????) & obesity has not been studied
+    2.1 gives rise to the pos. of involving growth factor in PD
+    
+    2.2 gradually reason to introducing growth factor into adult brain to treat PD
+
+
+
+3. method in the article
+    3.1 electrophysiology
+    
+    3.2 HFHS diet
+    
+    3.3 justification of choosing the method -> functionality/properties change at the neuronal level in VP from the difference in diet (mention chronic here!)
+    
+    
+    
+4. method in more detail (whole-cell patch clamp, voltage & current)
+*excitatory synaptic transmission is #BLOCKED#!!!!* -> not looking at the glutamate at all!
+* evoked IPSC (~30-70% of the max. IPSC) induced by a bipolar stimulating electrode anterior to the cell
+* groups
+    HFHS (10-12 weeks)
+        WG (weight-gainer, upper 33%)
+        NWG (not weight-gainer, lower 33%)
+    chow
+        HSe (high seeker for HFHS reward, upper 33%)
+        LSe (low seeker for HFHS reward, lower 33%)
+
+    4.1 current clamp: measures excitability & passive membrane properties
+        4.1.1 current step protocol: injection of 500ms depolarising current 0pA-80pA (20pA step); baseline membrane potential adjusted to -50mV by injecting constant current
+        
+        * spontaneous IPSC recorded for 100s without stimulation
+        
+    4.2 voltage clamp: hold -80mV, measures synaptic activity
+    
+    4.3 HFS (high-frequency stimulation) induce plasticity (depression) 
+        4.3.1 evoked IPSC baseline measurement (under voltage clamp -80mV), 3mins
+        
+        4.3.2 HFS: 100 stimulation at 100Hz, with amplitude equals to IPSC baseline, 2 trains separated by 20s
+        
+        4.3.3 after the 2nd train, voltage clamp -80mV, and record evoked (not spontaneous) IPSC at 0.1Hz, average amplitude of 6 responses to get one data point per minute
+        
+        4.3.4 short-term synaptic depression (STD): measure PTP (post-tetanic potentiation; a form of short-term plasticity, induces change in *frequency* of **miniature** post-synaptic current/potential but not amplitude) 1min after HFS
+        
+        4.3.5 long-term synaptic depression (LTD): measure ??? 13-19 min after HFS
+        
+    4.4 consecutive pulses*2 with 50ms interval
+        4.4.1 PPR (paired-pulse ration): amplitude of second pulse/amplitude of first pulse (i.e., ratio of two amplitudes) for each group
+        
+        4.4.2 CV (coefficient of variation) of the current: difference between the first peak of two pulses
+        
+        4.4.3 these two parameters are measured twice: baseline & after HFS, repeated 20 times under each condition; they are indicators of change in the probability of *pre-synaptic* release
+
+*[Something else: **The frequency of the mPSC is dependent upon vesicular release whereas the amplitude of the mPSC is dependent upon activation of the postsynaptic receptor. As an example, if you see a reduction in the frequency of mIPSCs, it is due to a decrease in the release of GABA, while a decrease in the amplitude of mIPSCs is due to reduced activation of postsynaptic GABAA receptors.**
+    **"Spontaneous postsynaptic currents are currents generated by action-potential-dependent and –independent release of neurotransmitter in the absence of experimental stimulation. Miniature postsynaptic currents are currents observed in the absence of presynaptic action potentials; they are thought to correspond to the response that is elicited by a single vesicle of transmitter." (1)
+1. Pinheiro, P. S. & Mulle, C. Presynaptic glutamate receptors: physiological functions and mechanisms of action. Nature reviews. Neuroscience 9, 423-436 (2008).]
+
+5. HFHS & Chow group (more method stuff which leads directly to the finding)
+    5.1 passive neuronal properties (measured 2 weeks after HFHS)
+        5.1.1 V_rest: HFHS ⬇️
+        
+        5.1.2 AP firing rate: HFHS ⬇️
+        
+        5.1.3 first-spike latency (FSL): no difference
+        
+        5.1.4 AP waveform: HFHS wider
+            AP half-width ⬆️
+            AP rise time ⬆️
+            membrane resistance ⬆️
+            current injected to maintain at -50mV ⬇️ (i.e., closer to -50mV, tho still >-50mV)
+    ➡️ chronic HFHS changed VP neuron physiology
+
+    5.2 GABA transmission
+        5.2.1 spontaneous IPSC amplitude: HFHS ⬇️
+        
+        5.2.2 spontaneous IPSC frequency: no difference
+    ➡️ change in GABA transmission, less likely due to pre-synaptic properties change, since PPR & CV of evoked IPSC did not change
+    
+        5.2.3 evidence from synaptic plasticity (induced depression)
+            a. STD (ms): 5 identical pulses (1Hz, 10Hz, 50Hz), record change (divide each evoked IPSC by the first one, i.e., ratio of IPSC_n/IPSC_1) in evoked IPSC; no difference in evoked IPSC frequency between groups
+            ➡️ no STD induced
+            
+            b. LTD (min): used HFS protocol as above, no difference between groups
+            ➡️ no LTD induced
+    ➡️ chronic HFHS impairs spontaneous neurotransmission through a post-synaptic mechanism, yet it does NOT change STD & LTD of evoked GABA transmission
+    
+➡️ #BIG point 1: HFHS changes VP neuron physiology
+
+
+
+6. WG & NWG (no difference in baseline weight)
+    6.1 passive neuronal properties (measured 2 weeks after HFHS)
+        6.1.1 V_rest: WG ⬇️; negatively correlated with weight-gaining across the *ENTIRE HFHS* group!!
+        
+        6.1.2 AP firing rate: no difference
+        
+        6.1.3 first-spike latency (FSL): WG ⬆️
+        
+        6.1.4 AP waveform: no difference
+            AP rise time ⬆️
+    ➡️ comparing to NWG, VP neurons in WG are more hyper-polarised & slower to fire AP, i.e., less excitatory
+    
+    6.2 synaptic plasticity
+        6.2.1 spontaneous IPSC (amplitudes & frequency): no difference
+        
+        6.2.2 evoked IPSC (again HFS protocol; 10 & 50Hz)
+            a. ST (ratio of IPSC_n/IPSC_1): WG ⬆️ (Fig. 4D)
+            ➡️ STP (short-term potentiation!!) induced in WG
+            
+            b. LT (IPSC amplitude): WG ⬆️, lasted for ~15min; transient NWG ⬇️ but *non-sig*!!
+            ➡️ LTP (long-term potentiation!!) induced in WG, and correlated with weight-gaining across *ALL MICE*!! Transforming from LTD in NWG & LTP in WG!!!
+
+        6.2.3 PTP: WG > NWG ➡️ tendency of strengthening inhibitory input (i.e., getting more and more inactive)
+        
+➡️ #BIG point 2: comparing to NWG, VP neurons in WG has: 1. V_rest ⬇️, FSL ⬆️; 2. STP & LTP after HFS, while NWG has LTD; 3. reduction of V_rest inversely relates to weight-gaining across HFHS; 4. LTP relates weight-gaining across ALL MICE.
+
+
+
+7. it is **weight-gaining** that matters to VP physiology, not weight-loss
+    7.1 BUT! here comes the issue: measurement made after chronic HFHS & weight-gaining, and the weight-loss is dropping to the baseline, i.e., "back to normal" NOT pathological. thus, it is not weight-gaining or losing per say, but the whether it is pathological.
+        quote: "*the physiology of the VP is **more linked** to the consumption of highly palatable food and not to the abstinence from it*" 
+
+➡️ This does NOT sound feasible, as their weights are getting back to normal! Only assessing change of weight can NOT make such conclusion!
+
+
+
+8. innateness of synaptic plasticity difference between WG & NWG
+    8.1 parameters seeking: the thing changed by chronic diet change, but not HFHS itself ➡️ FSL & synaptic plasticity (SP)
+    
+    8.2 training chow mice (progression ratio task, reward is CHOW FOOD!)
+        8.2.1 HSe (top 33%)
+        
+        8.2.2 LSe (bottom 33%)
+    
+    8.3 FSL & STSP: no difference; different from WG & NWG (see 6.1.3 & 6.2.2a)
+    ➡️ differences in FSL & STSP are NOT innate, but induced by HFHS
+
+    8.4 LTSP
+        8.4.1 evoked IPSC amplitudes: HSe ⬆️, LSe ⬇️; i.e., *LTP in HSe, LTD in LSe*, *similar to WG & NWG results* (see 6.2.2b)
+        
+        8.4.2 LTSP lasted longer in seekers than after diet modification (HFHS & Chow), presumably bc HFHS already made the modification to VP, thus the effect of extra HFS has only limited impact (just a wild guess...)
+        
+    8.5 PTP: HSe > LSe, *similar to WG & NWG results* (see 6.2.3)
+
+➡️ #BIG point 3: *proneness* to (HFS-induced) inhibitory input LTP to VP is an innate property that may partially be the cause of extreme weight gaining, i.e., VP are more likely to strengthen inhibitory input
+
+
+
+9. summary
+    9.1 HFHS & Chow
+        9.1.1 passive membrane properties
+        V_rest: HFHS ⬇️
+        AP firing rate: HFHS ⬇️
+        AP waveform: HFHS wider
+        ➡️ chronic HFHS changed VP neuron physiology
+        
+        9.1.2 GABA neurotransmission
+        spontaneous IPSC amplitude: HFHS ⬇️
+        ➡️ change in GABA transmission, less likely due to pre-synaptic properties change but intrinsic changes in VP neuron itself
+        
+        9.1.3 SP
+        ➡️ no STSP or LTSP
+    ➡️ #BIG point 1: HFHS changes VP neuron physiology
+    
+    9.2 WG & NWG in HFHS
+        9.1.1 passive membrane properties
+        V_rest: WG ⬇️
+        FSL: WG ⬆️
+        ➡️ VP in WG became less active/excitatory
+        
+        9.1.2 SP
+        STSP: STP in WG, i.e., evoked IPSC amplitude ⬆️
+        LTSP: LTP in WG, & non-sig LTD in NWG (what matters is the direction); i.e., evoked IPSC amplitude ⬆️ lasted ~15mins
+        PTP: WG > NWG        
+        ➡️ STSP or LTSP
+    ➡️ #BIG point 2: comparing to NWG, VP neurons in WG has: 1. V_rest ⬇️, FSL ⬆️; 2. STP & LTP after HFS, while NWG has LTD; 3. reduction of V_rest inversely relates to weight-gaining across HFHS; 4. LTP relates weight-gaining across ALL MICE.
+    
+    9.3 HSe & LSe test innateness
+        9.3.1 differences in FSL & STSP are NOT innate but induced by HFHS
+        
+        9.3.2 difference in LTSP may be innate, as HSe & LSe demonstrated differences WITHOUT exposure to HFHS
+        
+        9.3.3 difference in PTP may also be innate
+    ➡️ #BIG point 3: *proneness* to (HFS-induced) inhibitory input LTP to VP is an innate property that may partially be the cause of extreme weight gaining, i.e., VP are more likely to strengthen inhibitory input
+    i.e., VP neurons play a role in weight-gaining, individual differences in VP neuron properties may results in different outcome
+
+
+
+10. discussion
+    10.1 mechanism
+        10.1.1 amount of striatal D2 receptor ⬇️ in obese animals, & excitatory input to NAc ⬆️, ➡️ GABAergic input from NAc to VP ⬆️ in obese animals, ➡️ VP is stronger inhibited, ➡️ WG had LTP to GABAergic input
+        
+        10.1.2 LTD to GABAergic input may act as a compensation against hyperpolarisation in VP induced by HFHS diet, WG & HSe lack the ability to weaken the inhibitory input to VP, ➡️ they are more prone to become obese
+    
+    
+
+**about IPSC & GABA neurotransmission:
+1. GABA opens Cl channels ➡️ neurons are more hyper-polarised
+
+
+
+6. finding (neuronal integration)
+    6.1 importance of understanding the biology of each developmental stage
+    6.2 thus the delivery timing mattered
+    6.3 the future of using GDNF is bright, if timing is optimised
+    6.4 and this timing is comparable to other animals, e.g., rodent & primate
+    
+7. other limitation of current approaches, which is resolved by this new approaches
+    7.1 author used fluorescent to address this issue -> sig. improvement
+
+8. views from Studer
+    8.1 significance again in one sentence
+    8.2 future challenge identified by author, i.e., limitations
+
+9. views from Studer
+    9.1 follows previous limitations, further identify issues, i.e., if GDNF is enough
+    9.2 what are the possible solution to these issues
+
+10.1 situation of introducing 9.2 into PD (how it is applicable)
+10.2 another benefit of using this new approach
+
+11. summary & views
+    11.1 significance of this paper
+    11.2 pre-caution
+    11.3 bright future of GDNF
+    
+11. views
+    * collaboration between neuroscientists & Gastroenterologists, i.e., brain-gut axis
+    
+    * about the diet itself
+        sugar (diabetes use high fat low sugar diet, its about the balance of insulin -> control carbs, i.e., free sugar) INSULIN RESISTANCE is the term!!
+        what fat? saturated? unsaturated? trans?
+        Pennetta lipid droplets, high fat diet improve ALS
+        the combination of high sugar & fat rather than high fat contributes to obesity -> introduce HFLS, LFHS, LFLS groups, and specify the type of fat & sugar (free or complex?) -> specify the role of each component -> better translate to human diet design, & understanding of obesity & reward system
+        terminology: "palatable"=HFHS??? isn't that too subjective????? maybe: difference also lies in food preference, i.e., some mice just don't like HFHS food?? is there a reason to????
+        
+    * change in the reward system induced in higher motivation to obtain palatable food, or innate difference in palatable food preference alters the reward system? egg / chicken problem?
+                
+    * Lewy body in PD patients migrate from bowel -> the first symptom is constipation, years before the behavioural symptom (the first is loss of olfactory)
+    
+    * neuronal type is not specified, GABA? glutamate? (Stephenson-Jones 2020) which relate to positive & negative valence (hedonism) respectively
+       ** GABAergic neurons have increased activity when the stimuli are appealing, i.e., if GABA neurons become less active & lower resting potential, people will react less to appealing stimuli?????
+        Yea that make sense, for after chronic exposure to HFHS food, people need even higher dosage to get to the same level of excitation, like addiction
+        
+    * Does the FSL difference has something to do with GABA?
+    
+    * why not perform recording right after chronic HFHS? how would you know what exactly happened to VP? suggestion: add another round of recording right after diet, & keep the 2-week cooling period -> know what happened in that 2-week
+    
+    * Tbc1d1 gene mutation protects from diet-induced obesity (Chadt et al 2008)
+    
+    * the leap from reward system to decision making
+    
+    
+    
+
+
+## Leiden clinical neuro review paper guideline:
+    The writing assignment uses the same structure as an academic article, and must consist of at least the following sections:
+
+1. Introduction: with a sufficient statement of the problem(ending in a clear statement of questions and objectives).
+    Try to think of an interesting research question based on the supplied key articles, or use the question asked in the paper topic(half to 1 page).
+
+2. Middle part: consisting of several paragraphs.
+    In this middle part, arguments should be presented clearly and concisely (1-2 pages). 
+
+3. Discussion and conclusion: short summary with a conclusion and recommendations for further research (half to 1 page).
+
+python for data analysis 2nd
