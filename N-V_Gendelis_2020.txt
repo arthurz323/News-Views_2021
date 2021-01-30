@@ -6,9 +6,23 @@
 ["author" = author of the reviewed paper; "Studer" = author of the N&V]
 
 # Lay summary (<200)
-    [Why comfort food is hard to resist? Is food choice only a matter of "will power" or it has physiological basis?] Excessive consumption of high-calorie processed food is the main cause of obesity. Though the impact of obesity to the brain is unclear, evidence has pointed out that chronic high-calorie diet alters ventral pallidum (VP), a structure relates to feeding behaviour in the reward system, in mice. Specifically, Gendelis et al. showed: 1) chronic high-fat-and-high-sugar (HFHS) diet changed the neuronal properties in VP; 2) VP neurons became less active in mice which gained the most weight; 3) weight-gaining in general relates to weakened ability to suppress inhibitory input, which leads to the inactivity of VP, and promotes overeating in turn; individual difference in the ability of inhibitory input suppression maybe innate. These results suggest that VP is critical to chronic high-calorie diet induced obesity (chronic high-calorie diet does alter the reward system; by shutting down VP, the lateral hypothalamus more active...?), further identify its role in future studies is essential. [132 words, more!!!!]
+    [Why comfort food is hard to resist? Is food choice only a matter of "will power" or it has physiological basis?] 
+    Excessive consumption of high-calorie processed food is the main cause of obesity. Though the impact of obesity to the brain is unclear, evidence has pointed out that chronic high-calorie diet alters ventral pallidum (VP), a structure relates to feeding behaviour in the reward system, in mice. Specifically, Gendelis et al. found that: 1) chronic high-fat-high-sugar (HFHS) diet changes the neuronal properties in VP; 2) VP neurons become less active in mice which have gained the most weight; 3) weight-gaining in general relates to weakened ability to suppress inhibitory input, which leads to inactivity of VP and promotes overeating in turn; interestingly, 4) between naive-to-HFHS-food mice with the highest and lowest level of food seeking behaviour, similar pattern of difference seen in 3) is also presented, implying that variation in the ability of inhibitory input suppression maybe innate. These results suggested that VP is critical to chronic high-calorie diet induced obesity, and its innate property...may determine the level of obesity resistance... better understanding the role of reward system & obesity...intervene obesity epidemic...
     
     
+    (chronic high-calorie diet does alter the reward system; by shutting down VP, the lateral hypothalamus more active...?), further identify its role in future studies is essential. [132 words, more!!!!]
+    
+    
+    *4) in mice that are naive to HFHS food, similar pattern of difference seen in 3) was also found between mice demonstrated the highest and lowest level of food seeking behaviour, implying that variation in the ability of inhibitory input suppression maybe innate.
+    
+    *4) differences in the ability of inhibitory input suppression (VP) was also found between groups that displayed difference in food seeking level, with the highest seeker  also found in mice that are naive to HFHS food, some individuals difference in food seeking  in which implies that the ability of inhibitory input suppression maybe innate.*
+    
+    
+    
+    1. naive to HFHS
+    2. high & low level of food seeking
+    3. difference in the ability of inhibitory input suppression has the same pattern found between HFHS & chow 
+    4. implying that the ability of inhibitory input suppression maybe innate
     
 
 
@@ -29,7 +43,9 @@ Q3: if Q1 or Q2=true, are neuronal difference (among different amount of weight-
     1.1 relatable example (e.g.,):
         1.1.1 Recall the last time you had "comfort food"/doughnut/fried chicken/chocolate/candy, craving! Why? Not that you need them to keep you alive,but it makes you feel good.
     
-    Processed food is usually attractive and appetising yet calorie-dense; its accessibility promotes overeating and drives obesity in turn. Despite the high prevalence of obesity worldwide, the neurological mechanisms are poorly understood. Previous studies demonstrated that diet-induced obesity share similar properties with addiction: both may involve pathologies in the reward system (ref.). Therefore, in order to dissect the impact of diet-induced obesity on the reward system, a crucial area in the reward system which also modulates feeding behaviour (ref.), ventral pallidum (VP), has been put forward. Writing in *the Journal of Neuroscience*, Gendelis et al. (2020) found that chronic high-calorie diet changes VP neuron physiology and metaplasticity, with difference ... may be innate. ...
+    Processed food is usually attractive and appetising yet calorie-dense; its accessibility promotes overeating and drives obesity in turn. Despite the high prevalence of obesity worldwide, the neurological mechanisms are poorly understood. Previous studies demonstrated that diet-induced obesity share similar properties with addiction: both may involve pathologies in the reward system (ref.). Therefore, in order to dissect the impact of diet-induced obesity on the reward system, a crucial area in the reward system which also modulates feeding behaviour (ref.), ventral pallidum (VP), has been put forward. Writing in *the Journal of Neuroscience*, Gendelis et al. (2020) found that chronic high-calorie diet changes VP neuron physiology and metaplasticity (change in the direction or degree of synaptic plasticity; Abraham, 1996), with the differences in the latter regime being innate.
+    
+    also contributes to the weight-gaining.
     
     its role in obesity remains unknown...
     
@@ -69,7 +85,7 @@ Q3: if Q1 or Q2=true, are neuronal difference (among different amount of weight-
     
     
 4. method in more detail (whole-cell patch clamp, voltage & current)
-*excitatory synaptic transmission is #BLOCKED#!!!!* -> not looking at the glutamate at all!
+*excitatory synaptic transmission is #BLOCKED# by CNQX (AMPAR/kainate antagonist)!!!!* -> not looking at the glutamate at all!
 * evoked IPSC (~30-70% of the max. IPSC) induced by a bipolar stimulating electrode anterior to the cell
 * groups
     HFHS (10-12 weeks)
@@ -244,39 +260,8 @@ Q3: if Q1 or Q2=true, are neuronal difference (among different amount of weight-
         10.1.1 amount of striatal D2 receptor ⬇️ in obese animals, & excitatory input to NAc ⬆️, ➡️ GABAergic input from NAc to VP ⬆️ in obese animals, ➡️ VP is stronger inhibited, ➡️ WG had LTP to GABAergic input
         
         10.1.2 LTD to GABAergic input may act as a compensation against hyperpolarisation in VP induced by HFHS diet, WG & HSe lack the ability to weaken the inhibitory input to VP, ➡️ they are more prone to become obese
-    
-    
-
-**about IPSC & GABA neurotransmission:
-1. GABA opens Cl channels ➡️ neurons are more hyper-polarised
 
 
-
-6. finding (neuronal integration)
-    6.1 importance of understanding the biology of each developmental stage
-    6.2 thus the delivery timing mattered
-    6.3 the future of using GDNF is bright, if timing is optimised
-    6.4 and this timing is comparable to other animals, e.g., rodent & primate
-    
-7. other limitation of current approaches, which is resolved by this new approaches
-    7.1 author used fluorescent to address this issue -> sig. improvement
-
-8. views from Studer
-    8.1 significance again in one sentence
-    8.2 future challenge identified by author, i.e., limitations
-
-9. views from Studer
-    9.1 follows previous limitations, further identify issues, i.e., if GDNF is enough
-    9.2 what are the possible solution to these issues
-
-10.1 situation of introducing 9.2 into PD (how it is applicable)
-10.2 another benefit of using this new approach
-
-11. summary & views
-    11.1 significance of this paper
-    11.2 pre-caution
-    11.3 bright future of GDNF
-    
 11. views
     * collaboration between neuroscientists & Gastroenterologists, i.e., brain-gut axis
     
@@ -303,6 +288,42 @@ Q3: if Q1 or Q2=true, are neuronal difference (among different amount of weight-
     
     * the leap from reward system to decision making
     
+    * informative for the food industry & therapeutic clinic??
+
+**about IPSC & GABA neurotransmission:
+1. GABA opens Cl channels ➡️ neurons are more hyper-polarised
+    
+    
+    
+    
+[From Studer]
+6. finding (neuronal integration)
+    6.1 importance of understanding the biology of each developmental stage
+    6.2 thus the delivery timing mattered
+    6.3 the future of using GDNF is bright, if timing is optimised
+    6.4 and this timing is comparable to other animals, e.g., rodent & primate
+    
+7. other limitation of current approaches, which is resolved by this new approaches
+    7.1 author used fluorescent to address this issue -> sig. improvement
+
+8. views from Studer
+    8.1 significance again in one sentence
+    8.2 future challenge identified by author, i.e., limitations
+
+9. views from Studer
+    9.1 follows previous limitations, further identify issues, i.e., if GDNF is enough
+    9.2 what are the possible solution to these issues
+
+10.1 situation of introducing 9.2 into PD (how it is applicable)
+10.2 another benefit of using this new approach
+
+11. summary & views
+    11.1 significance of this paper
+    11.2 pre-caution
+    11.3 bright future of GDNF
+    
+
+    
     
     
 
@@ -317,5 +338,7 @@ Q3: if Q1 or Q2=true, are neuronal difference (among different amount of weight-
     In this middle part, arguments should be presented clearly and concisely (1-2 pages). 
 
 3. Discussion and conclusion: short summary with a conclusion and recommendations for further research (half to 1 page).
-
+    
+        
+            
 python for data analysis 2nd
