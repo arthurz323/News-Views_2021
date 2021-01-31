@@ -48,23 +48,22 @@ Q3: if Q1 or Q2=true, are neuronal difference (among different amount of weight-
     
     [do i need to talk about obesity?] [should i talk about processed food?]
     
-    VP connects key structures in the reward system, such as nucleus accumbens (NAc), and the main hub that controls the feeding behaviour, lateral hypothalamus (LH), with inhibitory signals: upstream NAc sends inhibitory input to VP, and VP inhibits downstream LH (Root et al., 2015). As the most feeding-relevant area in the reward system, not only the activity level of VP directly influences food consumption, VP also encodes the hedonistic value of food (Smith et al., 2009), yet its role in diet-induced obesity is a blank. Thus, Gendelis et al. applied diet-induced obesity protocol to a mouse model, and measured changes in VP neurophysiology and neurotransmission using electrophysiological techniques.
+    VP connects key structures in the reward system, such as nucleus accumbens (NAc), and the main hub that controls the feeding behaviour, lateral hypothalamus (LH), with inhibitory signals: upstream NAc sends inhibitory input to VP, and VP inhibits downstream LH (Root et al., 2015). As the most feeding-relevant area in the reward system, not only the activity level of VP directly influences food consumption, VP also encodes the hedonistic value of food (Smith et al., 2009), yet its role in diet-induced obesity is a blank. Thus, Gendelis et al. applied diet-induced obesity protocol to a mouse model, and measured changes in VP neurophysiology and GABAergic neurotransmission using electrophysiological techniques.
     
         
-    Two groups of mice received high-fat-high-sugar (HFHS) food (45% kcal fat) and standard chow food (18% kcal fat) respectively for 10-12 weeks on an unlimited basis, with the HFHS group had two extra weeks of recovery diet (standard chow food) to simulate the "on diet" behaviour after weight gaining in human. Following the diet-induced obesity protocol, the HFHS group was divided into top 33% weight gainers (WGs) and bottom 33% weight gainers (NWGs), and the chow group (naive to HFHS food) was divided into top 33% food seekers (high-seekers) and bottom 33% food seekers (low-seekers) based on their performance in a behavioural task that tests the motivation to gain food. At the end of the behavioural experiment, Gendelis et al. blocked excitatory synaptic transmission and performed *in vitro* whole-cell patch clamp recordings in VP neurons, assessed neuronal excitability, passive membrane properties, spontaneous postsynaptic activity, and synaptic plasticity induced by high-frequency stimulation (HFS) protocol.
+    Two groups of mice received high-fat-high-sugar (HFHS) food (45% kcal fat) and standard chow food (18% kcal fat) respectively for 10-12 weeks on an unlimited basis, with the HFHS group had two extra weeks of recovery diet (standard chow food) to simulate the "on diet" behaviour after weight gaining in human. Following the diet-induced obesity protocol, the HFHS group was divided into top 33% weight gainers (WGs) and bottom 33% weight gainers (NWGs), and the chow group (naive to HFHS food) was divided into top 33% food seekers (high-seekers) and bottom 33% food seekers (low-seekers) based on their performance in a behavioural task that tests the motivation to gain food. At the end of the behavioural experiment, Gendelis et al. blocked excitatory synaptic transmission and performed *in vitro* whole-cell patch clamp recordings in VP neurons, assessed neuronal excitability, passive membrane properties, and spontaneous and evoked inhibitory postsynaptic currents to proxy GABAergic neurotransmission.
     
         
-    Gendelis et al. found that even after two weeks of recovery, the alterations in VP neurophysiology brought by chronic HFHS diet and weight-gaining were still present. Comparing to the chow group, VP neurons from the HFHS group were less active, indicated by lower resting membrane potential (V_rest), lower action potential (AP) firing rate, and wider AP waveform. Within the HFHS group, WGs had lower V_rest than NWGs, and the reduction in V_rest was proportional to weight-gaining across the whole HFHS group. Together with longer first-spike latency (FSL) under current steps, VP neurons of WGs were shown to be less excitatory. Strikingly, the direction and amplitude of long-term synaptic plasticity in inhibitory input correlated with weight-gaining across the HFHS group: from long-term potentiation (LTP) in WGs to long-term depression (LTD) in NWGs; i.e., WGs and NWGs varied in metaplasticity. More interestingly, Gendelis et al. found the same pattern of metaplasticity variation between high-seekers and low-seekers from the naive-to-HFHS chow group: from LTP in high-seekers to LTD in low-seekers; suggesting that metaplasticity is an innate property that determines the level of feeding motivation. Overall, these results suggest that chronic HFHS diet changes.
+    Gendelis et al. found that even after two weeks of recovery, the alterations in VP neurophysiology brought by chronic HFHS diet and weight-gaining were still present. Comparing to the chow group, VP neurons from the HFHS group were less active, indicated by lower resting membrane potential (V_rest), lower action potential (AP) firing rate, and wider AP waveform. Within the HFHS group, WGs had lower V_rest than NWGs, and the reduction in V_rest was proportional to weight-gaining across the whole HFHS group. Together with longer first-spike latency (FSL) under current steps, VP neurons of WGs were shown to be less excitatory. Strikingly, the direction and amplitude of long-term synaptic plasticity in inhibitory input correlated with weight-gaining across the HFHS group: from long-term potentiation (LTP) in WGs to long-term depression (LTD) in NWGs; i.e., WGs and NWGs varied in metaplasticity. More interestingly, Gendelis et al. found the same pattern of metaplasticity variation between high-seekers and low-seekers from the naive-to-HFHS chow group: from LTP in high-seekers to LTD in low-seekers; suggesting that metaplasticity is an innate property that determines the level of feeding motivation.
     
         
-    VP neurons of WGs and of NWGs showed opposite synaptic plasticity under the same HFS protocol: WGs had robust short- and long-term potentiation (STP & LTP), while NGWs had a tendency of long-term depression. 
+    The work, therefore, denotes that chronic HFHS diet and diet-induced weight-gaining alter VP neurophysiology, and innate difference in VP metaplasticity may mark the proneness to develop obesity. Though the mechanism remain unclear, Gendelis et al. pointed out an intriguing avenue to follow: how does the difference in metaplasticity promote obesity? One possible explanation could be suppressing inhibitory input is a protective ability against HFHS-diet-induced hyperpolarisation that WGs and high-seekers lack, and this "deficit" made them more prone to become obese. Additionally, the importance of collaboration between neuroscientists and gastroenterologists to further explore the brain-gut axis and improve human health as one is again signified. Studies have evidenced that gut health is vital to neurological health (Kemal 2014 Cryan 2020); Parkinson's Disease, albeit neurological, may have its origin in the gut, with gastrointestinal symptoms such as constipation present years before the first presence of motor symptom (Liddle 2018, Borghammer 2019). Gendelis and colleagues' finding, too, provides insights in how diet impacts the brain.
     
+        
+    However, issues shall be minded. The authors. used the term "high-fat-high-sugar" throughout, yet neither the portion of sugar, nor the type of fat, was specified. Given that restricting carbohydrates is critical for preventing and improving obesity (Feinman 2015), and omega-3 fat polyunsaturated fatty acids is beneficial for neurological health (Gallo 2020 & Kamel 2014 & Zhang 2011), clearly define the nutrition facts is essential. Future studies could consider to include other fat-sugar combinations of diet, i.e., high-fat-low-sugar (HFLS), LFHS, and LFLS. Secondly, Gendelis et al. performed neurophysiological recordings only two weeks after the last exposure to HFHS food, as a dynamic system that changes constantly, whatever happened during the recovery period was unknown. Future studies could also consider to perform recordings right after the diet-induced obesity protocol to study the acute response.
     
-    
-    
-    
-    The work, therefore, denotes that VP closely relates to diet-induced weight-gaining: 
-    
+        
+    Connecting diet, weight-gaining, and the reward system, Gendelis and colleagues' work opens several interesting avenues for future research, promises to lead a better understanding of the brain-gut axis.
    
    
    
@@ -74,8 +73,7 @@ Q3: if Q1 or Q2=true, are neuronal difference (among different amount of weight-
     
     
     
-    
-    Gendelis et al. first assessed neurophysiology, and found that comparing to the control group, VP neurons from the HFHS group are sig. less active (less AP & lower resting membrane potential) even after two weeks of withdrawn from HFHS food. suggesting that HFHS diet altered neurophysiological properties in VP, the alteration lasts for at least two weeks after last exposure. then they assessed alteration in GABAergic neurotransmission, by measuring both evoked & spontaneous inhibitory signals from VP neurons, and yes GABAergic neurotransmission is impaired (spontaneous IPSC amplitude: HFHS).
+assessed alteration in GABAergic neurotransmission, by measuring both evoked & spontaneous inhibitory signals from VP neurons, and yes GABAergic neurotransmission is impaired (spontaneous IPSC amplitude drop in HFHS).
     
     
     To follow neuronal changes in VP under obesity context, Gendelis et al. applied diet-induced obesity protocol to a mouse model and used electrophysiological techniques to measure neurophysiology and GABAergic neurotransmission.
@@ -325,35 +323,7 @@ Root DH, Melendez RI, Zaborszky L, Napier TC (2015) The ventral pallidum: subreg
 
 Smith KS, Berridge KC (2005) The ventral pallidum and hedonic reward:neurochemical maps of sucrose “liking” and food intake. J Neurosci 25:8637–8649
     
-    
-[From Studer]
-6. finding (neuronal integration)
-    6.1 importance of understanding the biology of each developmental stage
-    6.2 thus the delivery timing mattered
-    6.3 the future of using GDNF is bright, if timing is optimised
-    6.4 and this timing is comparable to other animals, e.g., rodent & primate
-    
-7. other limitation of current approaches, which is resolved by this new approaches
-    7.1 author used fluorescent to address this issue -> sig. improvement
-
-8. views from Studer
-    8.1 significance again in one sentence
-    8.2 future challenge identified by author, i.e., limitations
-
-9. views from Studer
-    9.1 follows previous limitations, further identify issues, i.e., if GDNF is enough
-    9.2 what are the possible solution to these issues
-
-10.1 situation of introducing 9.2 into PD (how it is applicable)
-10.2 another benefit of using this new approach
-
-11. summary & views
-    11.1 significance of this paper
-    11.2 pre-caution
-    11.3 bright future of GDNF
-    
-
-    
+Zhang W, Li P, Hu X, Zhang F, Chen J, Gao Y. Omega-3 polyunsaturated fatty acids in the brain: metabolism and neuroprotection. Front Biosci (Landmark Ed). 2011;16:2653-2670. Published 2011 Jun 1. doi:10.2741/3878    
     
     
 
