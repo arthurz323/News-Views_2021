@@ -7,7 +7,7 @@
 
 # Lay summary (<200)
     [Why comfort food is hard to resist? Is food choice only a matter of "will power" or it has physiological basis?] 
-    Overeating high-calorie processed food is the main cause of obesity. Though the impact of obesity to the brain is unclear, evidence has pointed out that chronic high-calorie diet alters ventral pallidum (VP), a structure relates to feeding behaviour in the reward system, in mice. Specifically, Gendelis et al. found that: 1) chronic high-fat-high-sugar (HFHS) diet changes the neuronal properties in VP; 2) VP neurons become less active in mice which have gained the most weight; 3) weight-gaining in general relates to weakened ability to suppress inhibitory input, which leads to inactivity of VP and promotes overeating in turn; interestingly, 4) between naive-to-HFHS-food mice with the highest and lowest level of food seeking behaviour, similar pattern of difference seen in 3) is also presented, implying that variation in the ability of inhibitory input suppression maybe innate. These results suggested that VP is critical to chronic high-calorie diet induced obesity, and its innate property...may determine the level of obesity resistance... better understanding the role of reward system & obesity...intervene obesity epidemic...how metaplasticity changes remains unknown
+    Overeating high-calorie processed food is the main cause of obesity. Though the impact of obesity to the brain is unclear, evidence has pointed out that chronic high-calorie diet alters ventral pallidum (VP), a structure relates to feeding behaviour in the reward system, in a mouse model. Specifically, Gendelis et al. found that: 1) chronic high-fat-high-sugar (HFHS) diet changes the neuronal properties in VP; 2) VP neurons become less active in mice which have gained the most weight; 3) weight-gaining in general relates to weakened ability to suppress inhibitory input, which leads to inactivity of VP and promotes overeating in turn; interestingly, 4) between naive-to-HFHS-food mice with the highest and lowest level of food seeking behaviour, similar pattern of difference seen in 3) is also presented, implying that variation in the ability of inhibitory input suppression maybe innate. These results suggested that VP is critical to chronic high-calorie diet induced obesity, and its innate property...may determine the level of obesity resistance... better understanding the role of reward system & obesity...intervene obesity epidemic...how metaplasticity changes remains unknown
     
     
     (chronic high-calorie diet does alter the reward system; by shutting down VP, the lateral hypothalamus more active...?), further identify its role in future studies is essential. [132 words, more!!!!]
@@ -39,24 +39,47 @@ Q2: within HFHS, difference in weight-gaining have difference in VP neurophysiol
 Q3: if Q1 or Q2=true, are neuronal difference (among different amount of weight-gaining) due to diet, or innateness plays a role? i.e., quote: "are these synaptic differences between obesity-prone and obesity-resistant animals the cause or the consequence of obesity?"
     
     
-1. introduce the (existing) problem the article tackled
+    Processed food is usually attractive and appetising yet calorie-dense; its accessibility and affordability triggers overeating and drives obesity in turn. In 2016, over 650 million adults were obese, and over 340 million children and adolescents were overweight or obese; obesity-related diseases have become major causes of death globally. Despite the high prevalence, the biological, especially neurobiological, mechanisms under obesity remain unknown. Studies suggested that the answer may lie in the brain's reward system. Since processed food is too palatable to resist, people often regard it as "treat" which can stimulate the reward system in the brain (Kenny, 2011; de Macedo et.al., 2016). Diet-induced obesity indeed share similar properties with addiction: both may involve pathologies in the reward system (ref.). Therefore, to dissect the intertwinement between diet-induced obesity and the reward system, questions like whether diet-induced obesity alters the reward system, and whether intrinsic properties in the reward system promote weight gaining need to be answered. Writing in *the Journal of Neuroscience*, Gendelis et al. (2020) address these questions in the ventral pallidum (VP), a crucial area in the reward system which also modulates feeding behaviour (ref.), of a mouse model, and report chronic high-calorie diet alters VP neurophysiology, and innate differences in VP GABAergic neurotransmission promotes obesity.
     
-    Processed food is usually attractive and appetising yet calorie-dense; its accessibility and affordability promotes overeating and drives obesity in turn. In 2016, over 650 million adults were obese, and over 340 million children and adolescents were overweight or obese; obesity-related diseases have become major causes of death globally. Despite the high prevalence, the biological, especially neurobiological, mechanisms under obesity remain unknown. Studies suggested that the answer may lie in the brain's reward system. As processed food is too palatable to resist, it is often regarded as "treat" which can stimulate the reward system in the brain (Kenny, 2011; de Macedo et.al., 2016). Diet-induced obesity indeed share similar properties with addiction: both may involve pathologies in the reward system (ref.). Therefore, to dissect the intertwinement between diet-induced obesity and the reward system, questions like whether diet-induced obesity alters the reward system, and whether intrinsic properties in the reward system promote weight gaining need to be answered. Writing in *the Journal of Neuroscience*, Gendelis et al. (2020) addressed these questions with electrophysiological techniques in ventral pallidum (VP), a crucial area in the reward system which also modulates feeding behaviour (ref.).
-    
-    Moreover, a crucial area in the reward system which also modulates feeding behaviour, ventral pallidum (VP), is understudied in obesity context.
-    
-    Therefore, in order to dissect the impact of diet-induced obesity on the reward system, a crucial area in the reward system which also modulates feeding behaviour (ref.), ventral pallidum (VP), has been put forward.  : does diet-induced obesity alter the reward system? If so, does innate differences in the reward system determine the proneness to develop obesity?
-    
-    found that chronic high-calorie diet changes VP neuron physiology, and mice that gained the most weight from the high-calorie diet also displayed alterations in metaplasticity (change in the direction or degree of synaptic plasticity; Abraham, 1996). with the differences in the latter regime being innate.
-    
-    questions about obesity remain unanswered: does obesity change my brain? Are some more likely to become obese than others? Are some less susceptible to "comfort food" than others? i.e., some people are more susceptible to choose palatable food (which leads to gain excessive weight) given the same diet? i.e., innate/personal difference? Is it true that people who have a hard time to say no to "comfort food" has neurological basis, not weak in "will power"?
         
-            
-        1.3.2 pointing to the reward system, similar to addiction, NAc esp., and introduce ventral pallidum (the fact that it relates to feeding! VP activation ⬆️, ➡️ feeding; it also encodes hedonistic values of the food), lack of study in this region
+    VP connects key structures in the reward system, such as nucleus accumbens (NAc), and the main hub that controls the feeding behaviour, lateral hypothalamus (LH), with inhibitory signals: upstream NAc sends inhibitory input to VP, and VP inhibits downstream LH (Root et al., 2015). As the most feeding-relevant area in the reward system, not only the activity level of VP directly influences food consumption, VP also encodes the hedonistic value of food (Smith et al., 2009), yet its role in diet-induced obesity is a blank. Thus, Gendelis et al. applied diet-induced obesity protocol to a mouse model, and followed changes in VP neurophysiology and neurotransmission using electrophysiological techniques.
     
-    2. introduce diet-induced obesity & its relationship with reward system, esp VP, its role in pathological overeating (*is overeating here really pathological????) & obesity has not been studied
-   
-    As the most feeding-relevant area in the reward system, VP not only encodes the hedonistic value of food, its activity level also directly influences food consumption (Smith et al., 2009). However, the role of VP in diet-induced obesity is blank. Gendelis et al. identified this gap, applied diet-induced obesity protocol to mouse models, and used electrophysiological techniques to follow their change in VP at the neuronal level in comparison with the control group.
+        
+    Two groups of mice received high-fat-high-sugar (HFHS) food (45% kcal fat) and standard chow food (18% kcal fat) respectively for 10-12 weeks on an unlimited basis, with the HFHS group had two extra weeks of recovery diet (standard chow food). After the diet-induced obesity protocol, the HFHS group was divided into top 33% weight gainers (WGs) and bottom 33% weight gainers (NWGs), and the chow group (naive to HFHS food) was divided into top 33% food seekers (high-seekers) and bottom 33% food seekers (low-seekers) based on their performance in a behavioural task that tests the motivation to gain food. At the end of the behavioural experiment, Gendelis et al. blocked excitatory synaptic transmission and performed *in vitro* whole-cell patch clamp recordings in VP neurons, assessed neuronal excitability, passive membrane properties, spontaneous postsynaptic activity, and synaptic plasticity.
+    
+        
+    Comparing to the chow group, VP neurons from the HFHS group became less active.
+    
+    
+    
+     each successful trial was rewarded by low chow food (5.6% kcal fat).
+    
+    
+    with which received unlimited high-fat-high-sugar (HFHS) food (45% kcal fat) for 10-12 weeks followed by two weeks of recovery chow diet. Meanwhile, the control group received only standard chow food (18% kcal fat) throughout.
+    
+     during which.
+    
+    progressive ratio task reward is 
+    
+    
+    Gendelis et al. first assessed neurophysiology, and found that comparing to the control group, VP neurons from the HFHS group are sig. less active (less AP & lower resting membrane potential) even after two weeks of withdrawn from HFHS food. suggesting that HFHS diet altered neurophysiological properties in VP, the alteration lasts for at least two weeks after last exposure. then they assessed alteration in GABAergic neurotransmission, by measuring both evoked & spontaneous inhibitory signals from VP neurons, and yes GABAergic neurotransmission is impaired (spontaneous IPSC amplitude: HFHS).
+    
+    
+    To follow neuronal changes in VP under obesity context, Gendelis et al. applied diet-induced obesity protocol to a mouse model and used electrophysiological techniques to measure neurophysiology and GABAergic neurotransmission.
+    
+        
+     
+     
+     
+     maybe too much: then brains are sliced & perform in vitro whole-cell patch clamp; as VP receives & sends inhibitory signals both from & to up & downstream structures,➡️ this study focus on the inhibitory signals ➡️ excitatory synaptic transmission is blocked.
+    
+    as VP receives & sends inhibitory signals both from & to up & downstream structures,➡️ this study focus on the inhibitory signals ➡️ excitatory synaptic transmission is blocked.
+    
+    identified this gap, 
+    
+    ,  to follow neuronal change in VP in comparison with the control group.
+    
+    food intake
     
         
             
@@ -65,12 +88,9 @@ Q3: if Q1 or Q2=true, are neuronal difference (among different amount of weight-
        
     3.2 electrophysiology
     
-    3.3 justification of choosing the method -> functionality/properties change at the neuronal level in VP from the difference in diet (mention chronic here!)
+    3.3 justification of choosing the method -> functionality/properties change at the neuronal level in VP from the difference in diet (mention chronic not acute response)
     
-    Two groups of mice received unlimited high-fat-high-sugar (HFHS) food (45% kcal fat) and standard chow food (5.6% kcal fat) respectively for 10-12 weeks; HFHS group had additional two weeks of "recovery diet" afterwards (switched back to chow food). Gendelis et al. first assessed neurophysiology, and found that comparing to the control group, VP neurons from the HFHS group are sig. less active (less AP & lower resting membrane potential) even after two weeks of withdrawn from HFHS food. suggesting that HFHS diet altered neurophysiological properties in VP, the alteration lasts for at least two weeks after last exposure. then they assessed alteration in GABAergic neurotransmission, by measuring both evoked & spontaneous inhibitory signals from VP neurons, and yes GABAergic neurotransmission is impaired (spontaneous IPSC amplitude: HFHS ⬇️).
-    
-    
-    maybe too much: then brains are sliced & perform in vitro whole-cell patch clamp; as VP receives & sends inhibitory signals both from & to up & downstream structures,➡️ this study focus on the inhibitory signals ➡️ excitatory synaptic transmission is blocked.
+   
     
     
 4. method in more detail (whole-cell patch clamp, voltage & current)
@@ -288,6 +308,9 @@ Q3: if Q1 or Q2=true, are neuronal difference (among different amount of weight-
                 References
 https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight
 
+Root DH, Melendez RI, Zaborszky L, Napier TC (2015) The ventral pallidum: subregion-specific functional anatomy and roles in motivated behaviors. Prog Neurobiol 130:29–70.
+
+Smith KS, Berridge KC (2005) The ventral pallidum and hedonic reward:neurochemical maps of sucrose “liking” and food intake. J Neurosci 25:8637–8649
     
     
 [From Studer]
